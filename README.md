@@ -1,1 +1,1 @@
-This if fusakoo's first (official) git project!
+This is fusakoo's test git project :)
